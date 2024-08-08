@@ -20,7 +20,7 @@
 
 ## 😉 Opá! Tudo bom?
 
-Moro no Rio de Janeiro/RJ, tenho apenas 22 anos e desde que eu me conheço, amo a tecnologia e games e fazer parte do desenvolvimento, seja do que for, é um grande êxtase pra mim. 
+Moro no Rio de Janeiro/RJ, tenho apenas 23 anos e desde que eu me conheço, amo a tecnologia e games e, atualmente meu desejo são as IAs e fazer parte do desenvolvimento, seja do que for, é um grande êxtase pra mim. 
 Buncando sempre aprender mais, afinal, evolução esta em um dos galhos da tecnologia!!
 
 <p align="center">
@@ -41,9 +41,9 @@ Buncando sempre aprender mais, afinal, evolução esta em um dos galhos da tecno
 </br>
 </br>
 <div display="inline-block">
- <p align="left">Tenho como objetivo fazer parte de uma equipe extraordinária de desenvolvedores.</p>
- <p align="left">Venho estudando Python e pretendo começar Java, me direcionando para o back-end (ou como gosto de falar: "o lado negro da força" 🤣🤣).</p>
- <p align="left">Aceito dicas, criticas construtivas e muita horientação. Sou novo na área que o que mais busco é aprender.</p>
+ <p align="left">Tenho como objetivo atuar no desenvolvimento de IAs voltadas para o abranger todas as necessidades humanas;</p>
+ <p align="left">Venho estudando PHP e pretendo começar Python, me direcionando para a criação de uma IA (tudo tem um inicio!😉);</p>
+ <p align="left">Aceito dicas, criticas construtivas e muita horientação. Sou novo na área que o que mais busco é aprender;</p>
  <p align="left"> ☕ Café e 🕹️ jogos são meus bons e velhos companheiros para o relaxamento da massa cinzenta :D </p>
 </div>
 
