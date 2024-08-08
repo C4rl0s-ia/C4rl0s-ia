@@ -34,7 +34,7 @@ Buncando sempre aprender mais, afinal, evolução esta em um dos galhos da tecno
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
+<code><img width="40px" src="<svg xmlns="http://www.w3.org/2000/svg" title = "PHP"/></code>
 <code><img width="40px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" title = "BOOTSTRAP"/></code>
 
 
