@@ -41,8 +41,8 @@ Buncando sempre aprender mais, afinal, evolução esta em um dos galhos da tecno
 </br>
 </br>
 <div display="inline-block">
- <p align="left">Tenho como objetivo atuar no desenvolvimento de IAs voltadas para o abranger todas as necessidades humanas;</p>
- <p align="left">Venho estudando PHP e pretendo começar Python, me direcionando para a criação de uma IA (tudo tem um inicio!😉);</p>
+ <p align="left">Tenho como objetivo atuar no desenvolvimento de IAs voltadas para o abranger todas as necessidades humanas, onde irá atuar como uma inteligência "humana", digamos assim hahah!;</p>
+ <p align="left">Nesses últimos tempos durante a faculdade estudei a linguagem C e Python. Ainda não tive um estudo claro quanto a aplicação e criação de IAs, mas sei que estou perto;</p>
  <p align="left">Aceito dicas, criticas construtivas e muita horientação. Sou novo na área que o que mais busco é aprender;</p>
  <p align="left"> ☕ Café e 🕹️ jogos são meus bons e velhos companheiros para o relaxamento da massa cinzenta :D </p>
 </div>
