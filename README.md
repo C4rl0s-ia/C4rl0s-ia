@@ -35,7 +35,7 @@ Buncando sempre aprender mais, afinal, evolução esta em um dos galhos da tecno
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" height="40px" src="https://www.php.net/images/logos/new-php-logo.svg" title = "PHP"/></code>
 <code><img width="40px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" title = "BOOTSTRAP"/></code>
-<code><img width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-hq3m6d%2F&psig=AOvVaw35vWnDRHrTLHQf4OyU98NM&ust=1731979403360000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCZuJ7c5IkDFQAAAAAdAAAAABAE" title = "C"/></code>
+<code><img width="40px" src="https://img.icons8.com/?size=256&id=40670&format=png" title = "C"/></code>
 
 
 </br>
