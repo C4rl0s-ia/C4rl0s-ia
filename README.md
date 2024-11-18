@@ -36,7 +36,7 @@ Buncando sempre aprender mais, afinal, evolução esta em um dos galhos da tecno
 <code><img width="40px" height="40px" src="https://www.php.net/images/logos/new-php-logo.svg" title = "PHP"/></code>
 <code><img width="40px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" title = "BOOTSTRAP"/></code>
 <code><img width="40px" src="https://img.icons8.com/?size=256&id=40670&format=png" title = "C"/></code>
-
+<code><img width="40px" src="https://img.icons8.com/?size=256&id=13441&format=png" title = "C"/></code>
 
 </br>
 </br>
