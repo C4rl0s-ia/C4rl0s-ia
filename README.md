@@ -31,11 +31,11 @@ Buncando sempre aprender mais, afinal, evolução esta em um dos galhos da tecno
 <img width="300px" align="right" src="https://i.ibb.co/4SvjddV/9e6c2e5d-60e9-4f34-ad5b-9cb9d34318dc.png" alt="9e6c2e5d-60e9-4f34-ad5b-9cb9d34318dc" border="0">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" height="40px" src="https://www.php.net/images/logos/new-php-logo.svg" title = "PHP"/></code>
 <code><img width="40px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" title = "BOOTSTRAP"/></code>
+<code><img width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-hq3m6d%2F&psig=AOvVaw35vWnDRHrTLHQf4OyU98NM&ust=1731979403360000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCZuJ7c5IkDFQAAAAAdAAAAABAE" title = "C"/></code>
 
 
 </br>
