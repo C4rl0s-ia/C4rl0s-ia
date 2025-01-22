@@ -12,15 +12,12 @@
   </a>
 </div>
 
-
-
-
 <br>
 <br>
 
 ## 😉 Opá! Tudo bom?
 
-Moro no Rio de Janeiro/RJ, tenho apenas 23 anos e desde que eu me conheço, amo a tecnologia e games e, atualmente meu desejo são as IAs e fazer parte do desenvolvimento, seja do que for, é um grande êxtase pra mim. 
+Moro no Rio de Janeiro/RJ, tenho apenas 23 anos e desde que eu me conheço, amo a tecnologia e games e, atualmente meu desejo está sendo em desenvolvimento propriamento. 
 Buncando sempre aprender mais, afinal, evolução esta em um dos galhos da tecnologia!!
 
 <p align="center">
@@ -38,11 +35,17 @@ Buncando sempre aprender mais, afinal, evolução esta em um dos galhos da tecno
 <code><img width="40px" src="https://img.icons8.com/?size=256&id=40670&format=png" title = "C"/></code>
 <code><img width="40px" src="https://img.icons8.com/?size=256&id=13441&format=png" title = "C"/></code>
 
+### 🧑‍💻Tecnologias em desenvolvimento
+
+<code><img width="40px" src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" title = "Java"/></code>
+<code><img width="40px" src="https://spring.io/img/projects/spring-boot.svg" title = "Spring"/></code>
+
+
 </br>
 </br>
 <div display="inline-block">
- <p align="left">Hoje venho focado em um estudo da liguagem Java <code><img width="40px" src="https://cdn.worldvectorlogo.com/logos/java.svg" title = "Java"/></code> juntamente com o SpringBoot <code><img width="40px" src="https://spring.io/img/projects/spring-boot.svg" title = "Spring"/></code>;</p>
- <p align="left">Nesses últimos tempos durante a faculdade estudei a linguagem C e Python. Ainda não tive um estudo claro quanto a aplicação e criação de IAs, mas sei que estou perto;</p>
+ <p align="left">Hoje venho focado em estudo da liguagem Java juntamente com o SpringBoot com visão em melhorar o entendimento de POO e propriamente no que tange o desenvolvimento de uma aplicação em Java;</p>
+ <p align="left">Ainda durante o processo do ano letivo de 2024, estudei estrutura de dados em fase inicial, tive o entendimento primario de paradigmas da progração, aprofundamento em base de programação, logo após o estudo sobre autómatos. Durante esse periodo tive um contato com a linguagem C para o estudo de paradigmas e Python, junto de C, em base de programação compreendendo a lógica em si;</p>
  <p align="left">Aceito dicas, criticas construtivas e muita horientação. Sou novo na área que o que mais busco é aprender;</p>
  <p align="left"> ☕ Café e 🕹️ jogos são meus bons e velhos companheiros para o relaxamento da massa cinzenta :D </p>
 </div>
