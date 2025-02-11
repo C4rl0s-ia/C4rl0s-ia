@@ -17,8 +17,7 @@
 
 ## 😉 Opá! Tudo bom?
 
-Moro no Rio de Janeiro/RJ, tenho apenas 23 anos e desde que eu me conheço, amo a tecnologia e games e, atualmente meu desejo está sendo em desenvolvimento propriamento. 
-Buncando sempre aprender mais, afinal, evolução esta em um dos galhos da tecnologia!!
+Moro no Rio de Janeiro/RJ, tenho apenas 23 anos e, desde que me conheço, amo a tecnologia e os games. Atualmente, meu desejo é me dedicar ao desenvolvimento de software, buscando sempre aprender mais, afinal, a evolução está em um dos galhos da tecnologia!
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350">
@@ -44,15 +43,15 @@ Buncando sempre aprender mais, afinal, evolução esta em um dos galhos da tecno
 </br>
 </br>
 <div display="inline-block">
- <p align="left">Hoje venho focado em estudo da liguagem Java juntamente com o SpringBoot com visão em melhorar o entendimento de POO e propriamente no que tange o desenvolvimento de uma aplicação em Java;</p>
- <p align="left">Ainda durante o processo do ano letivo de 2024, estudei estrutura de dados em fase inicial, tive o entendimento primario de paradigmas da progração, aprofundamento em base de programação, logo após o estudo sobre autómatos. Durante esse periodo tive um contato com a linguagem C para o estudo de paradigmas e Python, junto de C, em base de programação compreendendo a lógica em si;</p>
- <p align="left">Aceito dicas, criticas construtivas e muita horientação. Sou novo na área que o que mais busco é aprender;</p>
- <p align="left"> ☕ Café e 🕹️ jogos são meus bons e velhos companheiros para o relaxamento da massa cinzenta :D </p>
+ <p align="left">Hoje, venho focado no estudo da linguagem Java juntamente com o Spring Boot, com a intenção de melhorar meu entendimento sobre Programação Orientada a Objetos (POO) e, mais especificamente, no desenvolvimento de aplicações em Java.</p>
+ <p align="left">Durante o ano letivo de 2024, estudei estruturas de dados em fase inicial e tive um entendimento primário sobre paradigmas de programação, além de um aprofundamento em fundamentos de programação. Depois, estudei autômatos. Nesse período, tive contato com a linguagem C para entender paradigmas e com Python, junto com C, para compreender a lógica da programação.</p>
+ <p align="left">Aceito dicas, críticas construtivas e muita orientação. Sou novo na área e o que mais busco é aprender!</p>
+ <p align="left"> ☕ Café e 🕹️ jogos são meus bons e velhos companheiros para relaxar a massa cinzenta! :D </p>
 </div>
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/carlos.a.s.souz4/), por lá poderemos trocar experiências e aprender um com o outro :D
+📫 Você pode falar comigo pelo Instagram; por lá poderemos trocar experiências e aprender um com o outro! :D
 
 </br>
 
