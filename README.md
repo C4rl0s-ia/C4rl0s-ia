@@ -15,7 +15,7 @@
 <br>
 <br>
 
-## 😉 Opá! Tudo bom?
+## 😉 Opá, tudo bom?!
 
 Moro no Rio de Janeiro/RJ, tenho apenas 23 anos e, desde que me conheço, amo a tecnologia e os games. Atualmente, meu desejo é me dedicar ao desenvolvimento de software, buscando sempre aprender mais, afinal, a evolução está em um dos galhos da tecnologia!
 
