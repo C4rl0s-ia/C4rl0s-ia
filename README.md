@@ -16,7 +16,7 @@ Moro no Rio de Janeiro/RJ, tenho 23 anos e sou apaixonado por tecnologia e games
 
 ## 🖥 Tecnologias e Ferramentas
 
-<img align="right" width="150px" src="https://i.ibb.co/4SvjddV/9e6c2e5d-60e9-4f34-ad5b-9cb9d34318dc.png">
+<img align="right" width="350px" src="https://i.ibb.co/4SvjddV/9e6c2e5d-60e9-4f34-ad5b-9cb9d34318dc.png">
 
 | Tecnologia | Nível | Estágio |
 |---|---|---|
