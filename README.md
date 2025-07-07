@@ -10,7 +10,7 @@
 
 ## 😉 Sobre mim
 
-Moro no Rio de Janeiro/RJ, tenho 23 anos e sou apaixonado por tecnologia e games. Meu foco atual é o desenvolvimento de software, buscando sempre aprender mais.
+Moro no Rio de Janeiro/RJ, tenho 24 anos e sou apaixonado por tecnologia e games. Meu foco atual é o desenvolvimento de software em Java, buscando sempre aprender mais.
 
 ---
 
