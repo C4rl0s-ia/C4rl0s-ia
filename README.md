@@ -18,18 +18,40 @@ Moro no Rio de Janeiro/RJ, tenho 23 anos e sou apaixonado por tecnologia e games
 
 <img align="right" width="200px" src="https://i.ibb.co/4SvjddV/9e6c2e5d-60e9-4f34-ad5b-9cb9d34318dc.png">
 
+### 🌐 Tecnologias Web
+
 | Tecnologia | Nível | Estágio |
 |---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30px"/> HTML | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% | Avançado  |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30px"/> CSS | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% | Avançado  |
-| <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="30px"/> Bootstrap | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |Intermediário |
-| <img src="https://www.php.net/images/logos/new-php-logo.svg" width="30px"/> PHP | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |Intermediário |
-| <img src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" width="30px"/> Java | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |Intermediário |
-| <img src="https://spring.io/img/projects/spring-boot.svg" width="30px"/> Spring Boot | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% | Básico  |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/> Git | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% | Avançado |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/> GitHub | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% | Avançado |
-| <img src="https://img.icons8.com/?size=256&id=40670&format=png" width="30px"/> C | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 50% | Intermediário |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30px"/> **HTML** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% | Avançado |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30px"/> **CSS** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% | Avançado |
+| <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="30px"/> **Bootstrap** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% | Intermediário |
 
+---
+
+### 💻 Linguagens de Programação
+
+| Linguagem | Nível | Estágio |
+|---|---|---|
+| <img src="https://www.php.net/images/logos/new-php-logo.svg" width="30px"/> **PHP** | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% | Intermediário |
+| <img src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" width="30px"/> **Java** | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% | Intermediário |
+| <img src="https://img.icons8.com/?size=256&id=40670&format=png" width="30px"/> **C** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% | Intermediário |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px"/> C# | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% | Intermediário |
+---
+
+### ⚙️ Frameworks & Bibliotecas
+
+| Framework | Nível | Estágio |
+|---|---|---|
+| <img src="https://spring.io/img/projects/spring-boot.svg" width="30px"/> **Spring Boot** | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% | Básico |
+
+---
+
+### 🗂 Controle de Versão
+
+| Ferramenta | Nível | Estágio |
+|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/> **Git** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% | Avançado |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/> **GitHub** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% | Avançado |
 
 ---
 
