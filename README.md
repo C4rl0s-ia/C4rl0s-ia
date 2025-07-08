@@ -24,7 +24,6 @@ Moro no Rio de Janeiro/RJ, tenho 24 anos e sou apaixonado por tecnologia e games
 |---|---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30px"/> **HTML** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% | Avançado |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30px"/> **CSS** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% | Avançado |
-| <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="30px"/> **Bootstrap** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% | Intermediário |
 
 ---
 
@@ -43,7 +42,7 @@ Moro no Rio de Janeiro/RJ, tenho 24 anos e sou apaixonado por tecnologia e games
 | Framework | Nível | Estágio |
 |---|---|---|
 | <img src="https://spring.io/img/projects/spring-boot.svg" width="30px"/> **Spring Boot** | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% | Básico |
-
+| <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="30px"/> **Bootstrap** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% | Intermediário |
 ---
 
 ### 🗂 Controle de Versão
